@@ -1,14 +1,5 @@
-{"todo":"walk the dog","notes":"meet Jo in the park","status":false,"_id":"4JmEdQbr6i3Jp9rm"}
-{"todo":"dance","notes":"Wednesday class","status":false,"_id":"692B4y0dZhqCDpqp"}
-{"todo":"test","notes":"some information","status":true,"_id":"cAbu9CKzMJU1RSUz"}
-{"todo":"feed the fish","notes":"change","status":true,"_id":"jHZEJkNXhQr06xX1"}
-{"todo":"dance","notes":"remeber Wednesday class","status":false,"_id":"692B4y0dZhqCDpqp"}
-{"$$deleted":true,"_id":"692B4y0dZhqCDpqp"}
-{"todo":"test","notes":"some information","status":true,"_id":"cAbu9CKzMJU1RSUz"}
-{"todo":"test","notes":"some information","status":true,"_id":"cAbu9CKzMJU1RSUz"}
-{"$$deleted":true,"_id":"cAbu9CKzMJU1RSUz"}
-{"todo":"walk the dog","notes":"meet Jo in the park","status":false,"_id":"T60bPONLlENSPZf9"}
-{"$$deleted":true,"_id":"4JmEdQbr6i3Jp9rm"}
 {"todo":"feed the fish again","notes":"buy food","status":false,"_id":"JXzLWbXiO8Q6XwnU"}
-{"todo":"feed the fish","notes":"running low on fish food","status":false,"_id":"jHZEJkNXhQr06xX1"}
+{"todo":"walk the dog","notes":"meet Jo in the park","status":false,"_id":"T60bPONLlENSPZf9"}
 {"todo":"feed the fish","notes":"running low on fish food","status":true,"_id":"jHZEJkNXhQr06xX1"}
+{"todo":"feed the fish again","notes":"buy food","status":true,"_id":"JXzLWbXiO8Q6XwnU"}
+{"todo":"dance again","notes":"Monday","status":false,"_id":"u9vy07UecFDC0PWd"}
