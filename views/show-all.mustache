@@ -1,0 +1,21 @@
+<html lang="en">
+
+<head>
+{{>header}}
+</head>
+
+<body class="container">
+
+ {{#entries}}
+<div  class="card">
+   
+    <div  class ="card-header">{{todo}}
+        <a href="delete/{{todo}}"><i class="fa fa-trash fa-lg"></i></a>
+        <a href="edit/{{todo}}"><i class="fa fa-edit fa-lg"></i></a> </div>
+    <div class = "card-body">status : {{^status}}to be completed{{/status}} {{#status}}complete{{/status}}<p>Notes:{{notes}}</p>
+    </div>
+  </div>
+      {{/entries}}
+</body>
+
+</html>
